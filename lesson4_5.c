@@ -84,6 +84,4 @@ int main()
                          // ch is now 67 -> prints out 'C'
     return 0;
 
-
-
 }
